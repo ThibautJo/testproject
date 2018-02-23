@@ -1,3 +1,7 @@
 # testproject
-Testing github
-Thibaut Joukes //works
+Testing github  
+Thibaut Joukes //works  
+  
+a  
+b   
+c
