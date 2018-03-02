@@ -4,13 +4,8 @@ Testing github
 Hola, het is Klied!
 =======
 Testing github  
-<<<<<<< HEAD
-Thibaut Joukes //works  
-Jolien Lauwers //yaaaboii works  
-Lise Van Eyck //works
-  
-  blabla
-  
+
+
 Om een nieuwe regel te starten zijn er 2 lege spaties nodig achter uw lijn.  
 =======
 >>>>>>> 7a72497cea32783afd7e58a9ecc69737be702051
