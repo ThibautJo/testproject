@@ -1,7 +1,8 @@
 # testproject
 <<<<<<< HEAD
 Testing github
-Hola, het is Klied!
+Hola, het is Klied!  
+ALLAHU AKBAR  
 =======
 Testing github  
 
